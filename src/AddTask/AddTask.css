@@ -1,0 +1,43 @@
+.main_div{
+   margin: auto;
+   border-radius: 10px;
+   width: 30%;
+   border: 3px double rgb(13, 13, 13);
+   padding: 10px;
+   background-color:  rgb(206, 203, 99);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  
+   
+}
+.add{
+   margin-top: 10px;
+   margin-left: 50%;
+   background-color: rgb(206, 206, 232);
+  cursor: pointer;
+  border-radius: 5px;
+  
+  
+}
+
+input {
+  
+   
+   min-width: 15rem;
+   color: rgb(58, 57, 57);
+   background-color: #fff;
+   background-image: none;
+  
+   border-radius: 0.4rem;
+   
+  
+ }
+ button{
+   align-items: center;
+   
+ }
+ .add{
+  border-radius: 10px;
+   background-color: rgb(181, 222, 141);
+ }

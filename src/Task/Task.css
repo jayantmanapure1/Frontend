@@ -1,0 +1,23 @@
+.task_countainer{
+   border: 5px  double black;
+   
+   margin:10px;
+   padding: 30px;
+   box-shadow: 1px 1px 10px black;
+   margin-top: 20px;
+   background-color: rgb(237, 222, 186);
+   border-radius: 20px;
+ 
+   justify-content: space-between;
+
+}
+.delete{
+   margin-left: 1px;
+   border-radius: 10px;
+   background-color: rgb(181, 222, 141);
+}
+.update{
+   margin-left: 10px;
+   border-radius: 10px;
+   background-color: rgb(181, 222, 141);
+}
